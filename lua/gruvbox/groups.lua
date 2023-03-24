@@ -152,8 +152,6 @@ M.setup = function()
     DiffAdd = { bg = colors.subtle_green },
     DiffChange = { bg = colors.subtle_brown },
     DiffText = { bg = colors.subtle_yellow },
-    DiffviewDiffAddAsDelete = { bg = colors.subtle_red },
-    DiffviewDiffDelete = { bg = "none", fg = colors.bg2 },
     SpellCap = { link = "GruvboxBlueUnderline" },
     SpellBad = { link = "GruvboxRedUnderline" },
     SpellLocal = { link = "GruvboxAquaUnderline" },
